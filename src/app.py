@@ -122,6 +122,7 @@ with col2:
     st.write("Sample Job Postings")
     st.write(df_display)
     
+    
 
 
 
