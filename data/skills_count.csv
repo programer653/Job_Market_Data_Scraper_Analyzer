@@ -1,0 +1,204 @@
+skill,count
+c,9
+git,6
+linux,6
+python,5
+c++,5
+c#,5
+javascript,4
+sql,3
+java,3
+php,2
+react,2
+gitlab,2
+terraform,2
+angular,2
+vue,1
+kafka,1
+mongodb,1
+helm,1
+grafana,1
+mysql,1
+tailwind,1
+nodejs,1
+django,1
+flask,1
+jira,1
+confluence,1
+agile,1
+excel,1
+statistics,1
+postgresql,1
+ansible,1
+ruby,1
+rust,1
+r,1
+typescript,1
+seaborn,0
+threejs,0
+rest api,0
+websocket,0
+vite,0
+webpack,0
+babel,0
+storybook,0
+capcitor,0
+electron,0
+jquery,0
+ionic,0
+astro,0
+scala,0
+github,0
+bitbucket,0
+swift,0
+kotlin,0
+graphql,0
+bootstrap,0
+vscode,0
+julia,0
+kinesis,0
+groovy,0
+react native,0
+vbnet,0
+objectivec,0
+svelte,0
+nextjs,0
+gatsby,0
+dart,0
+express,0
+matlab,0
+perl,0
+fastapi,0
+springboot,0
+ruby on rails,0
+laravel,0
+aspnet,0
+slack,0
+intellij,0
+pycharm,0
+go,0
+power bi,0
+qlik,0
+looker,0
+google data studio,0
+sap,0
+sas,0
+spss,0
+crystal reports,0
+business intelligence,0
+financial modeling,0
+data visualization,0
+a/b testing,0
+hypothesis testing,0
+probability,0
+kpis,0
+dashboards,0
+reporting,0
+tableau,0
+regex,0
+matplotlib,0
+bash scripting,0
+eclipse,0
+docker compose,0
+postman,0
+swagger,0
+selenium,0
+playwright,0
+cypress,0
+junit,0
+pytest,0
+unittest,0
+mocha,0
+chai,0
+jest,0
+npm,0
+yarn,0
+maven,0
+gradle,0
+cloudwatch,0
+sagemaker,0
+lambda,0
+dynamodb,0
+feature engineering,0
+keras,0
+pytorch,0
+tensorflow,0
+sqlite,0
+scikit-learn,0
+cassandra,0
+redis,0
+snowflake,0
+cosmosdb,0
+redshift,0
+bigquery,0
+oracle,0
+db2,0
+mariadb,0
+neo4j,0
+elasticsearch,0
+firestore,0
+data mining,0
+nlp,0
+computer vision,0
+deep learning,0
+statsmodels,0
+nltk,0
+spacy,0
+opencv,0
+xgboost,0
+lightgbm,0
+catboost,0
+transformers,0
+huggingface,0
+langchain,0
+mlflow,0
+fastai,0
+jax,0
+prophet,0
+gensim,0
+word2vec,0
+reinforcementlearning,0
+cockroachdb,0
+hbase,0
+ecr,0
+circleci,0
+azure,0
+docker,0
+kubernetes,0
+pandas,0
+powershell,0
+jenkins,0
+github actions,0
+gitlab ci,0
+travisci,0
+spark,0
+bash,0
+istio,0
+consul,0
+vault,0
+promethus,0
+haskell,0
+cloudformation,0
+ecs,0
+gcp,0
+aws,0
+data lake,0
+beam,0
+hadoop,0
+hive,0
+pig,0
+flink,0
+numpy,0
+airflow,0
+dbt,0
+databricks,0
+presto,0
+trino,0
+storm,0
+aws glue,0
+azure data factory,0
+gcp dataflow,0
+kafka streams,0
+kudu,0
+hdfs,0
+data storytelling,0

@@ -1,0 +1,204 @@
+skill,count
+aws,14
+python,13
+react,12
+typescript,12
+agile,10
+sql,9
+javascript,8
+java,7
+docker,7
+azure,7
+gcp,7
+go,6
+c,5
+kubernetes,5
+nodejs,4
+databricks,3
+airflow,3
+graphql,3
+postgresql,3
+ecs,3
+git,2
+beam,2
+express,2
+reporting,2
+scala,2
+c#,2
+lambda,2
+nextjs,2
+jira,2
+kafka,2
+c++,2
+redshift,2
+github,2
+fastapi,2
+redis,1
+confluence,1
+snowflake,1
+dbt,1
+bigquery,1
+vite,1
+springboot,1
+flask,1
+bash,1
+angular,1
+linux,1
+jenkins,1
+vue,1
+rust,1
+excel,1
+kinesis,0
+react native,0
+probability,0
+cloudwatch,0
+a/b testing,0
+rest api,0
+websocket,0
+sagemaker,0
+webpack,0
+hypothesis testing,0
+gatsby,0
+svelte,0
+statistics,0
+jquery,0
+bootstrap,0
+tailwind,0
+aspnet,0
+laravel,0
+ruby on rails,0
+dashboards,0
+storybook,0
+kpis,0
+django,0
+babel,0
+crystal reports,0
+threejs,0
+pytest,0
+mocha,0
+chai,0
+jest,0
+npm,0
+yarn,0
+maven,0
+gradle,0
+bash scripting,0
+regex,0
+business intelligence,0
+tableau,0
+power bi,0
+qlik,0
+looker,0
+google data studio,0
+sap,0
+sas,0
+unittest,0
+junit,0
+electron,0
+cypress,0
+capcitor,0
+ionic,0
+astro,0
+spss,0
+gitlab,0
+bitbucket,0
+data visualization,0
+financial modeling,0
+vscode,0
+pycharm,0
+intellij,0
+eclipse,0
+docker compose,0
+postman,0
+swagger,0
+selenium,0
+playwright,0
+slack,0
+ansible,0
+ecr,0
+huggingface,0
+statsmodels,0
+nltk,0
+spacy,0
+opencv,0
+xgboost,0
+lightgbm,0
+catboost,0
+transformers,0
+langchain,0
+seaborn,0
+mlflow,0
+fastai,0
+jax,0
+prophet,0
+gensim,0
+word2vec,0
+reinforcementlearning,0
+deep learning,0
+matplotlib,0
+keras,0
+nlp,0
+dart,0
+ruby,0
+kotlin,0
+swift,0
+php,0
+r,0
+julia,0
+perl,0
+matlab,0
+objectivec,0
+pytorch,0
+vbnet,0
+groovy,0
+haskell,0
+powershell,0
+pandas,0
+numpy,0
+scikit-learn,0
+tensorflow,0
+computer vision,0
+data mining,0
+cloudformation,0
+github actions,0
+aws glue,0
+azure data factory,0
+gcp dataflow,0
+kafka streams,0
+kudu,0
+hdfs,0
+data lake,0
+terraform,0
+gitlab ci,0
+trino,0
+circleci,0
+travisci,0
+helm,0
+istio,0
+consul,0
+vault,0
+promethus,0
+grafana,0
+storm,0
+presto,0
+feature engineering,0
+neo4j,0
+mysql,0
+sqlite,0
+mongodb,0
+cassandra,0
+dynamodb,0
+oracle,0
+db2,0
+mariadb,0
+elasticsearch,0
+flink,0
+firestore,0
+cockroachdb,0
+cosmosdb,0
+hbase,0
+spark,0
+hadoop,0
+hive,0
+pig,0
+data storytelling,0

@@ -1,0 +1,7 @@
+[theme]
+base="light"                  # "light" or "dark"
+primaryColor="#4B9CD3"        # accent color (buttons, sliders, checkboxes)
+backgroundColor="#FFFFFF"     # main background
+secondaryBackgroundColor="#F5F7FA"  # sidebar/cards background
+textColor="#333333"           # main text color
+font="sans serif"             # "sans serif", "serif", or "monospace"
